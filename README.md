@@ -1,8 +1,4 @@
-# just bored so i Designed & coded this Header
-
-## About The Project
+## just bored so i Designed & coded this Header
 
 ![Header screen](https://github.com/ayoub-bani/Hero/blob/master/src/screen/header-screen.png)
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-![Header screen](https://github.com/ayoub-bani/Hero/blob/master/src/screen/header-screen.png)
