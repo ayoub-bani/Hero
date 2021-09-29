@@ -1,4 +1,49 @@
+.navbar {
+
+    a {
+        font-family: 'Rubik', sans-serif;
+        font-size: 16px;
+        font-weight: 300;
+        color: white !important;
+    }
+
+    .active {
+        color: #EF234E !important;
+    }
+
+    .navbar-brand {
+        img {
+            height: 48px;
+        }
+    }
+}
+
 #hero {
-    height: 100vh;
-    background-color: #090979;
+    margin-block-start: -5rem;
+    height: 100.5vh;
+    background-color: #05123C;
+
+    .heading-text {
+        color: white;
+        font-size: 73px;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-weight: bold;
+    }
+
+    .sub-heading {
+        @extend .heading-text;
+        font-family: 'Rubik', sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        color: #9FA5B7;
+        line-height: 1.5rem;
+    }
+
+    .wrapper {
+        .wrapper-image {
+            height: 100%;
+            right: 10rem;
+            bottom: 0;
+        }
+    }
 }
